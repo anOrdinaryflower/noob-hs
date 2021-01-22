@@ -1,0 +1,1 @@
+f x=return y where y=x+1 
